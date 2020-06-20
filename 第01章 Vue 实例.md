@@ -14,8 +14,6 @@ V  -> 发送通知 -> 控制层 -> 刷新数据
 
 MVVM（ Model-View-ViewModel ） 为一种设计模式，下图不仅概括了 MVVM 模式，还描述了在Vue.js 中ViewModel 是如何和 View 以及 Model 进行交互的。
 
-![](IMGS/mvvm.png)
-
 **\> ViewModel 是 Vue.js 的核心，它是一个 Vue 实例。**
 
 MVVM分为Model、View、ViewModel三者。
@@ -65,10 +63,6 @@ let vm = new Vue({
     data: model
 });
 ```
-
-
-
-![](IMGS/mvvm.gif)
 
 使用Vue的过程就是定义MVVM各个组成部分的过程。
 

@@ -1,10 +1,3 @@
-参考：
-
-- [Axios 中文文档 >>](http://www.axios-js.com/)
-
-- [Axios 中文说明 >>](https://www.kancloud.cn/yunye/axios/234845)
-- [DATA API](http://www.wwtliu.com/sxtstu/)
-
 # 一、概述
 
 Axios 是一个基于 promise 的易用、简洁且高效的http库 
