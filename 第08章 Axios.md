@@ -45,8 +45,6 @@ Vue.prototype.$axios = Axios
 
 # 四、示例
 
-API 参考：<https://www.showapi.com/>
-
 ## 1. GET 
 
 ```javascript
